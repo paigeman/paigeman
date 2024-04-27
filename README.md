@@ -12,6 +12,12 @@ I recently became addicted to reading Chinese web novels, but the subscription c
 
 BTW. , it is not recommend to read piracy content due to copyright.
 
+# Current Learning
+
+### 2024/04/27
+
+C++ template
+
 <!---
 paigeman/paigeman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
