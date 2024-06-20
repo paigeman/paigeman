@@ -14,6 +14,10 @@ BTW. , it is not recommended to read piracy content due to copyright.
 
 # Current Learning
 
+### 2024/06/20
+
+Java virtual machine
+
 ### 2024/04/27
 
 C++ template
