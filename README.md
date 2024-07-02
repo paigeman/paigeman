@@ -14,6 +14,11 @@ BTW. , it is not recommended to read piracy content due to copyright.
 
 # Current Learning
 
+### 2024/07/02
+
+- Java virtual machine
+- Python
+
 ### 2024/06/20
 
 Java virtual machine
