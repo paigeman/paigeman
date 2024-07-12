@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @paigeman
 - 👀 I’m interested in C++, Java and etc.
-- 🌱 I’m currently learning C++ template
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: fadepi666@gmail.com through Email/ [@fadepi](https://t.me/fadepi) through telegram
 
