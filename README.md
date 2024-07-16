@@ -9,6 +9,8 @@
 
 I want to find or develop a software that is similar to a screenshot tool, but the main function is OCR (Optical Character Recognition) to recognize the text in the screenshot area.
 
+[Solution](https://github.com/users/paigeman/projects/2?pane=issue&itemId=68983149)
+
 ### 2024/04/27
 
 I recently became addicted to reading Chinese web novels, but the subscription cost is too high. Luckily, there are some websites that share the novel content for free (at the moment). However, these websites require a certain level of user access, and I need to post meaningless content to improve my level. The website allows users to post meaningless content 100 times every day with one-minute interval per post. I'm considering using a script to automate this task and reduce my workload.
