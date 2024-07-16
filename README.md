@@ -15,6 +15,8 @@ I recently became addicted to reading Chinese web novels, but the subscription c
 
 BTW. , it is not recommended to read piracy content due to copyright.
 
+[Solution](https://github.com/paigeman/scripts/tree/main/jietiandi)
+
 # Current Learning
 
 ### 2024/07/02
