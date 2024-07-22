@@ -32,6 +32,13 @@ BTW. , it is not recommended to read piracy content due to copyright.
 
 # Current Learning
 
+### 2024/07/22
+
+- Java virtual machine
+- Python
+- Go
+- Elasticsearch
+
 ### 2024/07/02
 
 - Java virtual machine
