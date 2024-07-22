@@ -5,6 +5,17 @@
 
 # Current Working
 
+### 2024/07/22
+
+##### target
+
+Reproduce the experimental validation section of the paper "Study on Trust Management Mechanism of Internet of Vehicles Based on Blockchain."
+
+##### thesis
+
+* LI Fengyun, CHEN Mingming, WANG Lin, LI Peng , JU Xianyin. Study on Trust Management Mechanismof Internet of Vehicles Based on Blockchain [J]. Computer Science, 2024, 51(4): 381-387.
+
+
 ### 2024/07/11
 
 I want to find or develop a software that is similar to a screenshot tool, but the main function is OCR (Optical Character Recognition) to recognize the text in the screenshot area.
